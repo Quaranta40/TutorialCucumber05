@@ -1,0 +1,161 @@
+2025-04-03 12:21:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:21:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:27:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:30:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:30:57 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:30:57 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:30:57 [main] INFO  stepDefinitions.Hooks - --- Inizio Scenario ---
+2025-04-03 12:31:02 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:31:02 [main] INFO  stepDefinitions.Hooks - --- Fine Scenario ---
+2025-04-03 12:32:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:32:30 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:32:30 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:32:30 [main] INFO  stepDefinitions.Hooks - --- Inizio Scenario ---
+2025-04-03 12:32:34 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:32:34 [main] INFO  stepDefinitions.Hooks - --- Fine Scenario ---
+2025-04-03 12:33:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:33:56 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:33:56 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:33:56 [main] INFO  stepDefinitions.Hooks - --- Inizio Scenario ---
+2025-04-03 12:34:01 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:34:01 [main] INFO  stepDefinitions.Hooks - --- Fine Scenario ---
+2025-04-03 12:46:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:46:09 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:46:09 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:46:09 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: Login con credenziali VALIDE ---
+2025-04-03 12:46:13 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:46:13 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: Login con credenziali VALIDE ---
+2025-04-03 12:48:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:48:54 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:48:54 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:48:54 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: Login con credenziali VALIDE ---
+2025-04-03 12:48:59 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:48:59 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: Login con credenziali VALIDE ---
+2025-04-03 12:48:59 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-03 12:49:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:49:35 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:49:35 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:49:35 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: Login con credenziali VALIDE ---
+2025-04-03 12:49:39 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:49:39 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: Login con credenziali VALIDE ---
+2025-04-03 12:49:39 [main] ERROR stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è FALLITO.
+2025-04-03 12:50:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-03 12:50:53 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:50:53 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:50:53 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: Login con credenziali ERRATE ---
+2025-04-03 12:51:05 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:51:05 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: Login con credenziali ERRATE ---
+2025-04-03 12:51:05 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali ERRATE' è PASSATO.
+2025-04-03 12:51:06 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-03 12:51:06 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-03 12:51:06 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: Login con credenziali VALIDE ---
+2025-04-03 12:51:11 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-03 12:51:11 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: Login con credenziali VALIDE ---
+2025-04-03 12:51:11 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-04 11:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-04 11:39:41 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-04 11:39:41 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-04 11:39:41 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: Login con credenziali ERRATE ---
+2025-04-04 11:39:52 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-04 11:39:52 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: Login con credenziali ERRATE ---
+2025-04-04 11:39:52 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali ERRATE' è PASSATO.
+2025-04-04 11:39:54 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-04 11:39:54 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-04 11:39:54 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: Login con credenziali VALIDE ---
+2025-04-04 11:39:58 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-04 11:39:58 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: Login con credenziali VALIDE ---
+2025-04-04 11:39:58 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-04 11:55:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-04 11:55:24 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-04 11:55:24 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-04 11:55:24 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali ERRATE' ---
+2025-04-04 11:55:35 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-04 11:55:35 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali ERRATE' ---
+2025-04-04 11:55:35 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali ERRATE' è PASSATO.
+2025-04-04 11:55:36 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-04 11:55:36 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-04 11:55:36 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali VALIDE' ---
+2025-04-04 11:55:41 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-04 11:55:41 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali VALIDE' ---
+2025-04-04 11:55:41 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-07 15:03:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-07 15:03:29 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-07 15:03:29 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-07 15:03:29 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali VALIDE' ---
+2025-04-07 15:03:34 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-07 15:03:34 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali VALIDE' ---
+2025-04-07 15:03:34 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-07 15:15:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\Desktop\intelliJ_workspace\TutorialCucumber05\src\test\resources\TestSuite\correctLoginTests.xml
+
+2025-04-07 15:15:37 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-07 15:15:37 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-07 15:15:37 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali VALIDE' ---
+2025-04-07 15:15:43 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-07 15:15:43 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali VALIDE' ---
+2025-04-07 15:15:43 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-09 11:22:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-09 11:22:20 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-09 11:22:20 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-09 11:22:20 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali ERRATE' ---
+2025-04-09 11:22:31 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-09 11:22:31 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali ERRATE' ---
+2025-04-09 11:22:31 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali ERRATE' è PASSATO.
+2025-04-09 11:22:33 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-09 11:22:33 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-09 11:22:33 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali VALIDE' ---
+2025-04-09 11:22:37 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-09 11:22:37 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali VALIDE' ---
+2025-04-09 11:22:37 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-10 10:07:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\Desktop\intelliJ_workspace\TutorialCucumber05\src\test\resources\TestSuite\correctLoginTests.xml
+
+2025-04-10 10:07:49 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-10 10:07:49 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-10 10:07:49 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali VALIDE' ---
+2025-04-10 10:07:52 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-10 10:07:52 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali VALIDE' ---
+2025-04-10 10:07:52 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.
+2025-04-10 10:08:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shama\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-04-10 10:08:04 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-10 10:08:04 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-10 10:08:04 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali ERRATE' ---
+2025-04-10 10:08:14 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-10 10:08:14 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali ERRATE' ---
+2025-04-10 10:08:14 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali ERRATE' è PASSATO.
+2025-04-10 10:08:15 [main] INFO  stepDefinitions.Hooks - WebDriver inizializzato correttamente.
+2025-04-10 10:08:15 [main] INFO  stepDefinitions.Hooks - WebDriverWait inizializzato correttamente.
+2025-04-10 10:08:15 [main] INFO  stepDefinitions.Hooks - --- Inizio scenario: 'Login con credenziali VALIDE' ---
+2025-04-10 10:08:19 [main] INFO  stepDefinitions.Hooks - WebDriver chiuso e azzerato.
+2025-04-10 10:08:19 [main] INFO  stepDefinitions.Hooks - --- Fine scenario: 'Login con credenziali VALIDE' ---
+2025-04-10 10:08:19 [main] INFO  stepDefinitions.Hooks - Il test 'Login con credenziali VALIDE' è PASSATO.

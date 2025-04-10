@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="WrongLoginTestSuite">
+    <test name="WrongLoginTests">
+        <classes>
+            <class name="runner.WrongLoginTestRunner" />
+        </classes>
+    </test>
+</suite>

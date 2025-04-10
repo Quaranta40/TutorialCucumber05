@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.207" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login sulla pagina Practice Test Automation" name="Login con credenziali VALIDE" time="7.012">
+<system-out><![CDATA[
+Given L'utente naviga alla pagina di login "https://practicetestautomation.com/practice-test-login/".passed
+When L'utente inserisce "student" nel campo username........................passed
+And L'utente inserisce "Password123" nel campo password.....................passed
+And L'utente preme il pusante di Submit.....................................passed
+Then L'utente deve essere loggato con successo..............................passed
+And la pagina deve mostrare il pulsante di Logout...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
